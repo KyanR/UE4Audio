@@ -19,6 +19,10 @@
 		{
 			"Name": "AudioSynesthesia",
 			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
 		}
 	]
 }
